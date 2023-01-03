@@ -1,0 +1,26 @@
+body {
+    background-color: #E1F5EF;
+}
+
+h1 {
+    color: #03A9F4;
+}
+
+h2 {
+    color: #03A9F4;
+}
+
+label {
+    color: #009688;
+}
+
+input {
+    background-color: #009688;
+    border: none;
+    padding: 10px;
+    color: #E1F5EF;
+}
+
+input:hover {
+    background-color: #00897B;
+}
